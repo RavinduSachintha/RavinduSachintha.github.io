@@ -1,24 +1,30 @@
-Free Site License:
-------------------
+Bootstrap 4 Portfolio Theme for Developers
 
-CC 3.0 All of the site templates we create for WebThemez are licensed under the Creative Commons Attribution 4.0 License, which means you can:
- - You can use our templates for both personal and commercial projects. 
- - You are NOT allowed to remove the back link to WebThemez.com in templates unless you purchased a license. 
- - You can update /modify/customize the website to fit your project needs. 
- - You cannot claim credit or ownership for any of the files found on webthemez.com. 
- - You cannot redistribute, resell, license, or sub-license any of the files found on webthemez.com. 
+Theme name:
+=======================================================================
+Developer
 
- - No Support
- - No Php files ( contact form does not work)
- - No Updates
+Theme version:
+=======================================================================
+v2.1
 
+Release Date:
+=======================================================================
+14 March 2019
 
-Credits :
---------- 
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media (https://themes.3rdwavemedia.com/)
 
-=> Design & developed: "WebThemez"  http://webthemez.com 
-=> Bootstrap : http://getbootstrap.com/
-=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
-=> Fonts : https://www.google.com/fonts
-=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
-=> Carousel : http://owlgraphic.com/owlcarousel/
+Contact:
+=======================================================================
+Web: https://themes.3rdwavemedia.com/
+Email: themes@3rdwavemedia.com
+Twitter: @3rdwave_themes
+
+License: 
+=======================================================================
+This template is free under the Creative Commons Attribution 3.0 License.
+https://creativecommons.org/licenses/by/3.0/
+
+If you'd like to use the template without the attribution, you can check out our commercial license options via our website: https://themes.3rdwavemedia.com/
