@@ -105,6 +105,21 @@ a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
   background-clip: padding-box;
 }
 
+.badge-theme-skills {
+  background: rgb(58, 135, 170);
+  font-size: 18px;
+  margin: 2px;
+  color: #fff;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+
 a.dotted-link {
   border-bottom: 1px dotted #778492;
   color: #778492;
